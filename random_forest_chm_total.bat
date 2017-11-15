@@ -1,0 +1,1 @@
+"G:\R-3.3.3\bin\x64\Rscript.exe" "E:/heitor.guerra/db_backup/rasters/ipcc/random_forest.R" "E:/heitor.guerra/db_backup/rasters/ipcc" "chm_rf_train_below_60" "rf.mdl_chm_6_total_below_60.RData" "random_forest_chm_6_total_below_60.tif" "TRAIN_T" "TRAIN_A"
